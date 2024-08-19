@@ -16,7 +16,7 @@ Ferramentas: Jupyter Notebook (Ou VSCode), Git
 
 ## Instalação
 Clone este repositório:
-git clone https://github.com/usuario/projeto-analise-livros.git
+git clone https://github.com/RenanCOliveira93/project_a3.git
 Navegue até o diretório do projeto:
 cd projeto-analise-livros
 Crie um ambiente virtual e instale as dependências:
